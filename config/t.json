@@ -1,0 +1,21 @@
+[
+    [
+        "Difficulty",
+        "难度(None 或 Difficulty)",
+        "Dropdown",
+        [
+            "None",
+            "Easy",
+            "Medium",
+            "Hard"
+        ],
+        "None"
+    ],
+    [
+        "DayTimeSpeedRate",
+        "白天流逝速度倍率",
+        "Numeric",
+        null,
+        1.0
+    ]
+]
